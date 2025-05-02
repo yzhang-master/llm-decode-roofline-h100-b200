@@ -1,0 +1,7 @@
+ID,Kernel Name,Metric Name,Metric Unit,Metric Value,Data Origin
+0,synthetic_projection,gpu__time_duration.sum,nsecond,1000,synthetic
+0,synthetic_projection,dram__bytes_read.sum,byte,1000,synthetic
+0,synthetic_projection,dram__bytes_write.sum,byte,500,synthetic
+1,synthetic_attention,gpu__time_duration.sum,usecond,2,synthetic
+1,synthetic_attention,dram__bytes_read.sum,Kbyte,2,synthetic
+1,synthetic_attention,dram__bytes_write.sum,byte,0,synthetic
